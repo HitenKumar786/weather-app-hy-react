@@ -66,7 +66,8 @@ function Hi() {
           setCityName(e.target.value)
         }}
       />
-
+<br />
+<br />
       <button type="submit">Get Weather</button>
 
     </form>
