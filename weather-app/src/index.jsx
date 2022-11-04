@@ -49,7 +49,7 @@ function Hi() {
 
 
 
-  return <div>
+  return <div id='whole'>
 
 <div id='main'>
    
